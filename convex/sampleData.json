@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tech Conference 2025",
+    "description": "A conference for technology enthusiasts and professionals.",
+    "price": 100.0,
+    "totalTickets": 500,
+    "location": "Jakarta Convention Center",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_1"
+  },
+  {
+    "name": "Music Festival",
+    "description": "Live performances from top artists around the world.",
+    "price": 50.0,
+    "totalTickets": 1000,
+    "location": "Bali Beach Festival Ground",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_2"
+  },
+  {
+    "name": "Startup Pitch Night",
+    "description": "A networking event for startups to pitch their ideas to investors.",
+    "price": 30.0,
+    "totalTickets": 200,
+    "location": "Co-working Space, Jakarta",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_3"
+  },
+  {
+    "name": "AI & Machine Learning Workshop",
+    "description": "Hands-on training on AI and ML technologies.",
+    "price": 150.0,
+    "totalTickets": 150,
+    "location": "Surabaya Innovation Hub",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_4"
+  },
+  {
+    "name": "Digital Marketing Summit",
+    "description": "A deep dive into the latest trends in digital marketing.",
+    "price": 75.0,
+    "totalTickets": 300,
+    "location": "Bandung Convention Hall",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_5"
+  },
+  {
+    "name": "Game Development Expo",
+    "description": "Meet top game developers and showcase your games.",
+    "price": 40.0,
+    "totalTickets": 800,
+    "location": "Yogyakarta Expo Center",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_6"
+  },
+  {
+    "name": "Blockchain & Crypto Meetup",
+    "description": "Discuss the future of blockchain and cryptocurrency.",
+    "price": 20.0,
+    "totalTickets": 250,
+    "location": "Jakarta Tech Hub",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_7"
+  },
+  {
+    "name": "Photography Workshop",
+    "description": "Learn photography techniques from professional photographers.",
+    "price": 60.0,
+    "totalTickets": 100,
+    "location": "Bali Art Center",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_8"
+  },
+  {
+    "name": "Health & Wellness Retreat",
+    "description": "A retreat to focus on physical and mental well-being.",
+    "price": 200.0,
+    "totalTickets": 50,
+    "location": "Ubud Wellness Resort",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_9"
+  },
+  {
+    "name": "Food & Culinary Expo",
+    "description": "Explore culinary delights from around the world.",
+    "price": 35.0,
+    "totalTickets": 600,
+    "location": "Jakarta Food Hall",
+    "eventDate": 1717891200000,
+    "userId": "clerk_user_10"
+  }
+]
